@@ -1,6 +1,5 @@
 function ListGroup() {
   let items = ["New York", "San Francisco", "Toyko", "London", "Paris"];
-  items = [];
 
   return (
     <>
